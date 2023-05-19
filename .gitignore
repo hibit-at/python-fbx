@@ -1,0 +1,6 @@
+bone.fbx
+__pycache__
+*.pyd
+FbxCommon.py
+*.pyc
+old_test.py
